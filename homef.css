@@ -1,0 +1,21 @@
+body {
+	font-family: Arial, sans-serif;
+	margin: 0;
+	padding: 0;
+	background-image: url(https://www.webdesignerdepot.com/cdn-origin/uploads/2020/01/Netflix-Homepage.png );
+	background-size: cover;
+}
+button {
+	background-color: #fff;
+	color: #333;
+	border: thick;
+	padding: 10px 20px;
+	font-size: 1.2em;
+	border-radius: 5px;
+	margin-top: 20px;
+	cursor: pointer;
+}
+
+button:hover {
+	background-color: darkred;
+}
